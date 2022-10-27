@@ -1,2 +1,2 @@
 # python-learning
-my python learning repository
+This is a repository of my python learning files
